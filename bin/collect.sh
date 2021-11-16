@@ -1,12 +1,13 @@
 #!/bin/bash
 
 ### Variable definition
-MAX=2
+INT=
+MAX=
 MAILDIR=../collect-mail
-URL=http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list
+URL=
 
 ### Main
-for i in `seq 1 ${MAX}`
+for i in `seq ${INT} ${MAX}`
 do
     /bin/python3.6 ./collect.py ${URL}/${i} > ${MAILDIR}/${i}.txt
     sleep 1
