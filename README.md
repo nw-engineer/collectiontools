@@ -1,6 +1,6 @@
 # Collectiontools
 
-## This tool is a web scraping tool that retrieves only text from sites such as queries.  Suitable for collecting sites that generate a page for each inquiry.  
+## This tool is a web scraping tool that retrieves only text from sites such as FAQs.  Suitable for collecting sites that generate a page for each inquiry.  
 
 
 ### Operation check environment
