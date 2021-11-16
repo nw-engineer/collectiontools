@@ -6,7 +6,7 @@
 ### Operation check environment
 - [x] OS: CentOS7.9(3.10.0-1160.45.1.el7.x86_64)
 - [x] Python Version: 3.6.8
-
+- [x] pip Version: 9.0.3 from /usr/lib/python3.6/site-packages (python 3.6)
 
 ### Advance preparation
 
