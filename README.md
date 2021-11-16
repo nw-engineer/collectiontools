@@ -30,6 +30,8 @@ pip3.6 install chardet
 >   URL=http://xxxxxx.co.jp/list  
 >   *Please set the base URL of the inquiry site.*  
 
+4. bash collect.sh  
+
 
 The data retrieved is the data for the *`<title>`* and *`<pre>`* directives.
 If the text is something other than a *`<pre>`* directive, modify the following Python script appropriately depending on your site's configuration.
