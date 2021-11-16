@@ -1,6 +1,21 @@
-# collectiontools
+# Collectiontools
 
-### This tool is a web scraping tool that retrieves only text from sites such as queries.  Suitable for collecting sites that generate a page for each inquiry.
+## This tool is a web scraping tool that retrieves only text from sites such as queries.  Suitable for collecting sites that generate a page for each inquiry.  
+
+
+### Operation check environment
+- [x] OS: CentOS7.9(3.10.0-1160.45.1.el7.x86_64)
+- [x] Python Version: 3.6.8
+
+
+### Advance preparation
+
+```bash
+yum install python3
+pip3.6 install bs4
+pip3.6 install urllib3
+pip3.6 install chardet
+```
 
 ### How to use
 
