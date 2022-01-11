@@ -19,7 +19,7 @@ pip3.6 install chardet
 
 ### How to use
 
-1. git clone https://github.com/TadashiKanda/collectiontools.git  
+1. git clone https://github.com/nw-engineer/collectiontools.git  
 2. cd collectiontools/bin  
 3. vim collect.sh  
 
