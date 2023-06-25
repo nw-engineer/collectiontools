@@ -1,3 +1,0 @@
-mkdir chart2
-npx create-react-app .
-npm install axios recharts chart.js
